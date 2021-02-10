@@ -1,8 +1,3 @@
-import pandas
-import numpy
-
-def df_cleanser(df):
-    """cleans pd.DataFrame"""
-    # TODO - Implement
-    pass
-    
+import pandas as pd
+import numpy as np
+from sklearn.utils import shuffle
