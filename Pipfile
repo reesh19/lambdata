@@ -6,8 +6,9 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
-pep517 = "*"
 sklearn = "*"
+pytest = "*"
+"sklearn.utils" = "*"
 
 [dev-packages]
 
